@@ -1,0 +1,10 @@
+.SearchBox{
+    text-align: center;
+}
+
+#city{
+    color: white;
+    border: 3px solid rgb(68, 86, 208);
+    background-color: grey;
+    border-radius: 10px;
+}
